@@ -1,0 +1,2 @@
+.home{display:grid;grid-template-columns:repeat(2,2fr);grid-template-rows:repeat(2,2fr);height:1000px;position:relative;width:1000px}.board{display:grid;grid-template-columns:repeat(3,3fr);grid-template-rows:repeat(3,3fr);padding-right:50px}.board,.stats{height:500px;position:relative;width:500px}.stats{font-size:18px;padding-left:50px}.cell,.stats{text-align:center}.cell{border:1px solid #000;font-family:Asap,sans-serif;font-size:36px}
+/*# sourceMappingURL=main.32079247.css.map*/
